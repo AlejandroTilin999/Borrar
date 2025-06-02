@@ -2,3 +2,4 @@ primer comentario
 segundo comentario
 practica
 esto lo edite en el git ignore
+lo edite, este si aparecera
