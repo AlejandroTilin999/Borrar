@@ -1,0 +1,4 @@
+primer comentario
+segundo comentario
+practica
+esto lo edite en el git ignore
