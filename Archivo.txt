@@ -1,5 +1,3 @@
-primer comentario
-segundo comentario
-practica
-esto lo edite en el git ignore
-lo edite, este si aparecera
+Imperio Masculino
+Viste con estilo 
+img*
